@@ -13,7 +13,11 @@ So spooky
 Or the website <a href="https://pouler.fr/">pouler.fr</a>
 
 ### 🔧 Random Coding Error
-![Random Error](https://raw.githubusercontent.com/Yougo-rgb/random-code-error/main/ERROR.md)
+<div align="center">
+  
+![Random Error](https://github.com/Yougo-rgb/random-code-error/blob/main/ERROR.png?raw=true)
+
+</div>
 
 ## Initial Author
 - [Truta Axel](https://github.com/StroyII)
