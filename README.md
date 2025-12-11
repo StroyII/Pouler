@@ -1,8 +1,9 @@
-# Pouler
+# Pouler Devil Egg Updated
 
-### What's pouler ?
-**"Poules"** is a communitary project (and a dumb idea) i had that comes from multiple memes related to poules (chicken) like :
+### What's Devil Egg Updated ?
+Bad egg are spawning bouhhhhh!!!!
 
+So spooky
 <div align="center">
 
 ![Pouler](./img/pouler.jpg)
@@ -11,5 +12,12 @@
 
 Or the website <a href="https://pouler.fr/">pouler.fr</a>
 
-The goal of this project is for each user to create a game/program that the only purpouse is being dumb and funny. Only restriction is to be themed around chickens.
+### 🔧 Random Coding Error
+<div align="center">
+  
+![Random Error](https://github.com/Yougo-rgb/random-code-error/blob/main/ERROR.png?raw=true)
 
+</div>
+
+## Initial Author
+- [Truta Axel](https://github.com/StroyII)
